@@ -1,0 +1,10 @@
+# Ignore cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.idea
+
+# Ignore images and results
+/results
+/images
